@@ -1,0 +1,44 @@
+## Variables
+
+Es una forma de almacenar algo para utilizarla posteriormente. Esto podría ser similar a una caja de herramientas, la cual
+nos permite guardar las herramientas para cuando necesitemos de ellas.
+Para nuestro caso, en lugar de llamarlas cajas serán: var (ES5), let y const (ES6) y cada uno puede agregarl el nombre
+que desee y haga referencia a la variable que se almacenará: var nombredevariable 
+
+## Strings
+
+Un string es un tipo de dato, que te indica que lo que está almacenado en la variable es un texto. Para que reconozca 
+que se trata de un string, se necesita delimitar el texto entre comillas. 
+
+Ejemplo: var nombre = 'Sebastián'
+En este caso, la variable ("herramienta") llamada "nombre", almacena un dato de tipo String (texto).
+
+## Funciones
+
+Es un conjunto de líneas de codigo que realizan una tarea específica. Es como un unstructivo de uso, en este caso para
+el intérprete, como cuando compramos un electrodoméstico y queremos aprender a utilizarlo, vamos al instructivo, y realizamos
+las indicaciones paso a paso.
+
+Las funciones pueden tener parámetros o argumentos que modifican su comportamiento, estos pueden ser las Variables
+antes mencionadas. Y solo se puede acceder a la función mediante un "llamado a la misma", es decir, que sea cual fuere
+el fin de dicha función, para que ejecute sus lineas de código, necesitamos hacer un llamado a la función, pero no podremos
+acceder al resultado del mismo intentando ejecutar algunos de sus componentes (esto es llamado alcance o Scope). Para que
+esta función, pueda retornar un resultado, necesita contener en una de sus líneas la declaración de "return".
+
+## Declaraciones "if"
+
+Es una forma de controlar el flujo de ejecución. Supongamos que estamos en la escuela y para pasar de año necesitamos
+aprobar un examen final del año cursado, por lo tanto, solo vamos a pasar de año si aprobamos dicho examen, de lo contrario
+no podremos hacerlo. Para el caso que compete, necesitamos utilizar la declaración "if" para que el intérprete reconozca
+que lo que se viene es una comparación para determinar si algo es verdadero o falso, de forma que si es true, continua 
+con las funciones que corresponda pero si es false, entonces continuará con otras funciones distintas a la que lleva el camino 
+de true. Es un control de proceso. 
+
+## Booleanos "true" y "false"
+
+Son un tipo de dato que nos permiten definir si algo es verdader o falso. 
+
+
+
+
+
