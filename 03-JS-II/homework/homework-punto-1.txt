@@ -1,0 +1,22 @@
+Conceptos: for, &&, ||, !
+
+## for
+Esta expresión, evalúa una pregunta repetidas veces, hasta que encuentre 
+la respuesta que le indique detenerse. Es decir, mientras una condición exista
+el bucle continúa ejecutándose, hasta que encuentre la expresión que le indique
+detenerse.
+
+## &&, ||, !
+
+Estos son operadores lógicos, que sirven preguntar si alguna expresión es verdadera.
+Cuando tenemos el operardor &&, para que el resultado sea true, ambas expresiones
+deben ser verdaderas, de lo contrario resulta false.
+Por otra parte cuando nos encontramos con ||, la única condición cuyo resultado
+es false, resulta cuando ambas expresiones son falsas.
+Finalmente, ! (NOT), niega una expresión, por lo que si el enunciado es verdadero
+el incorporar '!' delante, niega y resulta en false, y a la inversa, si tenemos una
+expresión falsa pero colocamos ! delante, estaremos negando la falsedad y resultaria
+en true. 
+
+
+
