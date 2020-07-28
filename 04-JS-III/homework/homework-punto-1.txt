@@ -1,0 +1,7 @@
+## Arrays-> Matrices
+
+Una matriz es similar a una lista de elementos, es como cuando vas al supermercado y llevas una lista para no olvidarte. 
+En este caso esta lista puede ser funcional, ya que nos permite acceder a cada elemento y poder utilizarlos a 
+a nuestro criterio. 
+En otras palabras un Array es un contenedor de datos, similar a una variable.
+
