@@ -1,0 +1,32 @@
+## Objetos
+
+Un objeto es un conjunto de datos y/o funcionalidad. Esta al igual que cualquier objeto en la vida real, presenta 
+propiedades y funciones. Supongamos por ejemplo, un cuaderno, este tiene un color, forma, hojas características,
+y tiene por función la de ser escrita. Un objeto en JS, presenta propiedades características para dicho objeto y tendrá
+un fin. Consta de variables y funciones que se denominan justamente "propiedades" y métodos respectivamente. 
+
+## Propiedades
+
+Una propiedad es una característica del objeto. Es decir, así como una taza de color blanco, una de sus propiedades,
+el color es blanco, una propiedad en un objeto confiere de características al mismo.
+
+## métodos
+
+Un metodo es la capacidad del objeto, es decir una función. Cuando se establece como valor de una clave, una función, 
+estamos estableciendo un método para dicho objeto. 
+
+## For..in loop
+
+Este bucle, itera una variable específica sobre todas las propiedades enumerables de un objeto. Es similar a caracterizar
+las propiedades de un objeto tal como un auto, color, marca, etc. 
+
+## Notación de puntos Vs notación de corchetes
+
+Dot notation-notacion de puntos: Permite acceder y asegnar valores a un elemento del objeto. Para ello primero necesitas
+declarar el nombre del objeto para que el sistema sepa donde tiene que buscar, luego el punto y finalmente el nomnbre
+de la clave en el cual se encuentra la propiedad o metodo buscado. 
+Ej. persona.edad - accede a la propiedad contenida en el objeto persona, clave edad.
+
+Notación de corchetes: Es similar a utilizar una matriz, la diferencia radica, que en lugar de utilizar un índice para 
+seleccionar un elemento, se está utilizando el nombre asociado con el valor de cada miembro. 
+Ej. persona ["edad"]
