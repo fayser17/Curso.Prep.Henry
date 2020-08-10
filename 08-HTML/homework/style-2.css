@@ -1,0 +1,100 @@
+/* General: Fonts, Weight, Color, */
+
+
+/* --------------------------------------------- */
+/* Body */
+/* Header */
+
+hgroup {
+    text-align: center;
+    font-size: 18px;
+}
+h1 {
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 0px;
+    font-size: 22px;
+}
+
+/* ---------------------------------------------- */
+/* Section */
+
+section {
+    margin-left: 10px;
+    
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.deEdEx {
+   margin: 10px 100px -10px 100px;
+
+}
+
+.deEdEx h3 {
+    margin-bottom: -10px;
+    border-bottom: rgba(56, 56, 56, 0.76) 1px dashed;
+   
+}   
+
+.item {
+
+    text-align: center;
+    
+       
+    
+}
+
+.item h3 {
+    font-size: 30px;
+    border-bottom: rgba(20, 20, 20, 0.753) dotted 1px;
+    /* margin-bottom: -1px; */
+}
+
+
+#itemlId {
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin-left: -40px;
+    margin-top: -18px;
+    
+}
+li {
+    margin:5px;
+    font-size: 20px;
+}
+li:before {
+    content: "\27a3";
+    padding-right: 5px;
+   
+}
+
+img {
+    width: 10rem;
+    /* height: 400px; */
+}
+
+#imgExp {
+    display: flex;
+    
+    margin-left: 90px;
+    margin-right: 100px;
+}
+
+/* --------------------------------------------------- */
+/* Footer */
+
+footer {
+    text-align: center;
+}
