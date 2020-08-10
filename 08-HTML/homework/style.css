@@ -1,0 +1,22 @@
+/* Hoja de estilos CSS-Homework-Prep-course-Henry */
+
+h1 {
+    color: rgba(170, 0, 0, 0.527);
+}
+
+img {
+width:400px;
+}
+
+#thirdDiv {
+width: 500px;
+height: 600px;
+background-color: lightsteelblue;
+padding: 50px;
+border: silver dotted;
+}
+
+#spanId {
+font-size: 18px;
+margin: 50px;
+}
